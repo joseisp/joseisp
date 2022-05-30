@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ---
 
 [![jinacio-'s 42 stats](https://badge42.vercel.app/api/v2/cl3tasbxd004009ldd8ggysqi/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
