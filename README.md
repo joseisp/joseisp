@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 ![image](https://user-images.githubusercontent.com/71521188/171064661-04239f77-1367-4573-abe3-a0d08dce205c.png)
 ![image](https://user-images.githubusercontent.com/71521188/171064693-683924b1-cba1-4ba4-b7bd-2b6f34a6915c.png)
 ![image](https://user-images.githubusercontent.com/71521188/171064698-a2249efd-fa48-4d47-82ca-9e80ef668fb4.png)
@@ -25,5 +27,6 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/71521188/171064762-0372e366-1d68-499f-a608-9323f33eb5f2.png)
 ![image](https://user-images.githubusercontent.com/71521188/171064770-977b74a6-ded4-47ce-b075-9ee09dcb1ed9.png)
 
+---
 
 [![jinacio-'s 42 stats](https://badge42.vercel.app/api/v2/cl3tasbxd004009ldd8ggysqi/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
