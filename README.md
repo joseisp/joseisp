@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 42 Netpractice.
+- 🔭 I’m currently working on 42 Cub3d.
 - 🌱 I’m currently learning computer network.
 - 👯 I’m looking to collaborate on computer science. 
 - 📫 How to reach me: jinacio-@student.42sp.org.br
